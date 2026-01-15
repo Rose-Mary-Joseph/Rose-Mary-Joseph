@@ -1,6 +1,6 @@
-# 🛠 QA Automation Portfolio
+# 👋 Hi, I’m **Rose Mary Joseph** — QA Automation Engineer  
 
-👋 Hi, I’m **Rose Mary Joseph** — QA Automation Engineer  
+
 
 I build reliable, maintainable, and scalable test automation frameworks using modern tools and best practices.
 
