@@ -1,6 +1,9 @@
-# 👋 Hi, I’m **Rose Mary Joseph** — QA Automation Engineer  
+<h2 align="left">👋 Hi, I'm Rose — QA Automation Engineer</h2>
 
+💻 I design, build and maintain automation frameworks for Web/UI, API, and CI/CD pipelines.  
+I enjoy turning repetitive manual QA processes into reliable automated systems that boost release confidence.
 
+---
 
 I build reliable, maintainable, and scalable test automation frameworks using modern tools and best practices.
 
