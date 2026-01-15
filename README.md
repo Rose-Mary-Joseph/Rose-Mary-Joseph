@@ -78,15 +78,6 @@ I enjoy turning repetitive manual QA processes into reliable automated systems t
 
 ---
 
-## 📝 How to Use This Portfolio
-
-1. Click into any project listed above
-2. Explore code, framework structure, and test cases
-3. See CI/CD workflows
-4. Review generated reports located in project folders
-
----
-
 ## 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/rose-mary-joseph/
