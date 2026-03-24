@@ -1,88 +1,89 @@
-<h2 align="left">👋 Hi, I'm Rose — QA Automation Engineer</h2>
+<div align="center">
 
-💻 I design, build and maintain automation frameworks for Web/UI, API, and CI/CD pipelines.  
-I enjoy turning repetitive manual QA processes into reliable automated systems that boost release confidence.
+# Rose Mary Joseph
 
----
+**QA Automation Engineer** · TCS Infopark, Kochi
 
-### 🧰 Technical Skills
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rose-mary-joseph)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rosemaryjoseph@gmail.com)
 
-**Automation:** Selenium, Playwright, RestAssured, TestNG, Postman  
-**Languages:** Java, JavaScript/TS (basic), SQL, Python (basic)  
-**CI/CD:** GitHub Actions, Jenkins  
-**Tools:** Git, Maven, IntelliJ, VS Code, JMeter  
-**Concepts:** POM, CI/CD, API Testing, Regression, Smoke, DB Testing  
+</div>
 
 ---
 
-### 🏗 Tech Stack Badges
+## About Me
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TestNG-4B8BBE?style=for-the-badge&logo=testng&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RestAssured-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-00648B?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+I am a QA Automation Engineer with hands-on experience designing, building, and maintaining end-to-end test automation frameworks. I specialise in Selenium-based Java frameworks, CI/CD pipeline integration, and behaviour-driven development using Cucumber/BDD. I enjoy turning complex manual test processes into reliable, repeatable automated suites.
+
+- 🏢 Currently working at **Tata Consultancy Services (TCS), Infopark, Kochi**
+- 🌍 Based in **Kochi, Kerala, India**
+- 🎯 Focused on **Test Automation · CI/CD · BDD · Framework Architecture**
 
 ---
 
-### 🔹 Web UI Automation
-- Structured with Page Object Model (POM)
-- Parallel execution using TestNG
-- Cross-browser compatibility  
-- Clear HTML reports with screenshots
+## Tech Stack
 
-➡️ View project: `selenium-testng-ecommerce-automation`
+### Test Automation
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge&logo=testng&logoColor=white)
+![Tosca](https://img.shields.io/badge/Tricentis%20Tosca-003087?style=for-the-badge&logoColor=white)
 
----
+### Build & CI/CD
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### 🔹 API Automation
-- Validates response schema & data
-- Handles authentication, query params, headers
-- Generates easy-to-read reports
-
-➡️ View project: `api-automation-restassured-sample`
-
----
-
-### 🔹 Playwright UI Testing
-- Works across Chromium, Firefox, WebKit
-- Auto-waiting and network test utilities
-- Fast, reliable, modern UI tests
-
-➡️ View project: `playwright-ui-testing`
+### Reporting & Test Management
+![Zephyr](https://img.shields.io/badge/Zephyr%20Scale-0052CC?style=for-the-badge&logoColor=white)
+![Allure](https://img.shields.io/badge/Allure%20Report-FD5A3E?style=for-the-badge&logoColor=white)
 
 ---
 
-### 🔹 CI/CD Automation
-- GitHub Actions workflows
-- Jenkins pipelines
-- Runs tests on every pull request and merge
-- Stores test artifacts and logs
+## Projects
 
-➡️ View project: `automation-ci-cd-examples`
+### 🔹 Selenium Java BDD Framework
+> A modular, Page Object Model–based test automation framework built with Selenium 4, Java, TestNG, and Cucumber/BDD.
 
----
+- Supports parallel test execution using **TestNG** with `ThreadLocal` WebDriver management
+- Integrated with **Jenkins** for continuous test execution on every build
+- Generates rich test reports via **Allure** and **ExtentReports**
+- Uses **Zephyr Scale** for test case and execution management via REST API
 
-### 🔹 Database Testing
-- Connects to test DB
-- Validates CRUD operations
-- Executes SQL via JDBC
-
-➡️ View project: `database-testing-with-java`
+**Stack:** `Java` `Selenium` `TestNG` `Cucumber` `Maven` `Jenkins` `Zephyr Scale`
 
 ---
 
-## 📫 Connect With Me
+### 🔹 Jenkins-Groovy CI Pipeline for Tosca
+> A Jenkins declarative pipeline written in Groovy that integrates **Tricentis Tosca** execution results with **Zephyr Scale**.
 
-- LinkedIn: https://www.linkedin.com/in/rose-mary-joseph/
-- Email: rose1998alappat@gmail.com 
+- Automates POST/PUT calls to the Zephyr Scale REST API to log test execution history
+- Handles attachment uploads and error recovery within the pipeline
+- Designed around security sandbox restrictions in Jenkins Groovy execution
+
+**Stack:** `Jenkins` `Groovy` `Tosca` `Zephyr Scale` `REST API`
 
 ---
 
-> Thank you for checking out my QA Automation Portfolio! Feel free to explore, comment, or reach out if you’d like to collaborate 😊
+## GitHub Stats
+
+<div align="center">
+
+![Rose's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rose-Mary-Joseph&show_icons=true&theme=default&hide_border=true&title_color=003087&icon_color=003087&text_color=333333)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rose-Mary-Joseph&layout=compact&hide_border=true&title_color=003087&text_color=333333)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Rose-Mary-Joseph&hide_border=true&ring=003087&fire=003087&currStreakLabel=003087)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Quality is never an accident; it is always the result of intelligent effort."*
+
+</div>
