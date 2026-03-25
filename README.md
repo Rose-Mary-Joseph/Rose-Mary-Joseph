@@ -87,3 +87,5 @@ I am a QA Automation Engineer with hands-on experience designing, building, and 
 *"Quality is never an accident; it is always the result of intelligent effort."*
 
 </div>
+
+
