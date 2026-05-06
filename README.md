@@ -57,16 +57,6 @@ I am a QA Automation Engineer with hands-on experience designing, building, and 
 
 ---
 
-### 🔹 Jenkins-Groovy CI Pipeline for Tosca
-> A Jenkins declarative pipeline written in Groovy that integrates **Tricentis Tosca** execution results with **Zephyr Scale**.
-
-- Automates POST/PUT calls to the Zephyr Scale REST API to log test execution history
-- Handles attachment uploads and error recovery within the pipeline
-- Designed around security sandbox restrictions in Jenkins Groovy execution
-
-**Stack:** `Jenkins` `Groovy` `Tosca` `Zephyr Scale` `REST API`
-
----
 
 ## GitHub Stats
 
